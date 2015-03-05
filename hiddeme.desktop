@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Exec=hiddeme
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[es_ES]=HiddeMe
+Name=HiddeMe
+Icon=/usr/share/pixmaps/hiddeme.ico
+Comment[es_ES]=Activa y desactiva los iconos del escritorio
+Comment=Enable and disable desktop icons
